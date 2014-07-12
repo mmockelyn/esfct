@@ -24,27 +24,8 @@
 								</li>
 								<li><a href="clan-members.html">Joueur </a></li>
 								<li><a href="clan-members.html">Equipe </a></li>
-								<li class="dropdown">
-									<a href="portfolio.html">Portfolio</a>
-									<ul class="sub-menu dropdown-menu">
-										<li><a href="single-left-sidebar.html">Single left sidebar</a></li>
-										<li><a href="single-right-sidebar.html">Single right sidebar</a></li>
-										<li><a href="portfolio-single-ext.html">Portfolio single ext.</a></li>
-										<li><a href="portfolio-single-gallery.html">Portfolio single gallery</a></li>
-									</ul>
-								</li>
-								<li><a href="gallery.html">Gallery</a></li>
-								<li><a href="forums.html">Forums</a></li>
-								<li><a href="shop.html">Shop</a></li>
-								<li class="dropdown">
-									<a href="#">Blog</a>
-									<ul class="sub-menu dropdown-menu">
-										<li ><a href="blog-isotope.html">Blog Isotope</a></li>
-										<li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-										<li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-										<li><a href="blog-full-width.html">Blog Full Width</a></li>
-									</ul>
-								</li>
+								<li><a href="gallery.html">Tournois</a></li>
+								<li><a href="clan-members.html">TV </a></li>
 								<li><a href="contact.html">Contact</a></li>
 							</ul>
 						</div>
@@ -72,12 +53,12 @@
 							<tbody>
 								<tr id="LoginWithAjax_Username">
 									<td class="username_input">
-										<input name="log" placeholder="Username" id="lwa_user_login" class="input" value="" type="text">
+										<input name="log" placeholder="Nom d'utilisateur" id="lwa_user_login" class="input" value="" type="text">
 									</td>
 								</tr>
 								<tr id="LoginWithAjax_Password">
 									<td class="password_input">
-										<input placeholder="Password" name="pwd" id="lwa_user_pass" class="input" value="" type="password">
+										<input placeholder="Mot de Passe" name="pwd" id="lwa_user_pass" class="input" value="" type="password">
 									</td>
 								</tr>
 								<tr>
@@ -85,11 +66,11 @@
 								</tr>
 								<tr id="LoginWithAjax_Submit">
 									<td id="LoginWithAjax_SubmitButton">
-										<input name="rememberme" id="lwa_rememberme" value="forever" type="checkbox"> <label>Remember Me</label>
-										<a href="#" title="Password Lost and Found">Lost your password?</a>
+										<input name="rememberme" id="lwa_rememberme" value="forever" type="checkbox"> <label>Se rappeller de moi</label>
+										<a href="#" title="Password Lost and Found">Mot de Passe Perdu ?</a>
 										<br><br>
 										<input class="button-small"value="Log In" type="submit">
-										<a class="reg-btn button-small" href="#">Register</a>
+										<a class="reg-btn button-small" href="#">Enregistrer vous</a>
 										<input name="redirect_to" value="#" type="hidden">
 										<input name="testcookie" value="1" type="hidden">
 										<input name="lwa_profile_link" value="" type="hidden">
